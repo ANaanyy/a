@@ -1,0 +1,50 @@
+{
+  "mod_elements": [
+    {
+      "name": "BonecaRizo",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boneca_rizo",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.yttd_mod_base.boneca_rizo_boots": "Boneca Rizo Boots",
+      "item.yttd_mod_base.boneca_rizo_leggings": "Boneca Rizo Leggings",
+      "item.yttd_mod_base.boneca_rizo_helmet": "Boneca Rizo Helmet",
+      "item.yttd_mod_base.boneca_rizo_chestplate": "Boneca Rizo Body"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "yttd_mod_base",
+    "modName": "YTTD Mod Base",
+    "version": "1.0.0",
+    "author": "lojon, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.yttdmodbase",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
